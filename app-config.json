@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Luyện thi TOEIC®",
+    "headerColor": "#004738",
+    "textColor": "white",
+    "statusBarColor": "#004738",
+    "leftButton": "both"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [
+    "/qr",
+    "/shop",
+    "/history"
+  ]
+}

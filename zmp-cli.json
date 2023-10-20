@@ -1,0 +1,18 @@
+{
+  "cwd": "/Users/silverhand/Sources/zalo-loyalty/zalo-miniapp/weloyalty",
+  "newProject": true,
+  "name": "WeLoyalty",
+  "framework": "react",
+  "template": "blank",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#c64daa",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false,
+    "useUiKits": false
+  },
+  "customBuild": false,
+  "includeTailwind": false
+}
