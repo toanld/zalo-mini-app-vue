@@ -5,15 +5,19 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "dev": "vite",
+    "prod": "vite build"
   },
   "dependencies": {
     "@vitejs/plugin-vue": "^4.4.0",
+    "@websanova/vue-auth": "^4.2.1",
     "core-js": "^3.8.3",
     "sass": "^1.69.4",
     "vite": "^4.5.0",
+    "vite-plugin-env-compatible": "^1.1.1",
     "vue": "^3.2.13",
-    "vue-router": "^4.2.5",
+    "vue-router": "^4.3.0",
     "zmp-sdk": "^2.19.2"
   },
   "devDependencies": {
