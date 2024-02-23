@@ -12,12 +12,15 @@
   "dependencies": {
     "@vitejs/plugin-vue": "^4.4.0",
     "@websanova/vue-auth": "^4.2.1",
+    "axios": "^1.6.7",
     "core-js": "^3.8.3",
     "sass": "^1.69.4",
     "vite": "^4.5.0",
     "vite-plugin-env-compatible": "^1.1.1",
     "vue": "^3.2.13",
     "vue-router": "^4.3.0",
+    "vuex": "^4.1.0",
+    "zmp-framework": "^1.7.5",
     "zmp-sdk": "^2.19.2"
   },
   "devDependencies": {
